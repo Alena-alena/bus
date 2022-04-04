@@ -1,12 +1,12 @@
 import {useEffect} from "react";
 import {getBriefList} from "../../services/BriefData.service";
 
-const BriefList = (props) => {
+const BriefList = () => {
   useEffect(() => {
     getBriefList();
   }, []);
 
-  return <h1>Hello, {props.name}!</h1>;
+  return <h1>Hello!</h1>;
 }
 
 export default BriefList;
