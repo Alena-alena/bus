@@ -1,8 +1,9 @@
 import './App.css';
+import BriefList from "./components/BriefList/BriefsList";
 
 function App() {
   return (
-      <div className="App" />
+      <BriefList name="Alyona"/>
   );
 }
 
