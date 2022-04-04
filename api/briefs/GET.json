@@ -1,0 +1,4658 @@
+{
+  "data":[
+    {
+      "id": "00J7imQa4WM0WcrWDHVv",
+      "title": "Test subscription 3 edit (COPY) (COPY) edit",
+      "primaryLanguageTitle": "Test subscription 3 edit (COPY) (COPY) edit",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000746",
+      "end_date": "2021-12-25 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640476799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2021-11-30 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1638289375,
+        "nanoseconds": 773000000
+      },
+      "created_at": "2021-11-30 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1638289375,
+        "nanoseconds": 773000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "04I6n07Oh0AJ3zQ1tggH",
+      "title": "sdfsadf",
+      "primaryLanguageTitle": "sdfsadf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2F000-000-001-rgb(1).jpg?alt=media&token=ddc9a410-a5c5-4e53-8622-0dd6c5ed87ba",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647561599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647388800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647436595,
+        "nanoseconds": 54000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2F000-000-001-rgb(1).jpg?alt=media&token=ddc9a410-a5c5-4e53-8622-0dd6c5ed87ba"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "1sDXvb07tdhboQ2DYLvY",
+      "title": "sdfsdfsdf",
+      "primaryLanguageTitle": "sdfsdfsdf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2F414544.jpg?alt=media&token=14d5c299-ea43-4d71-aba1-6e522776596d",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647269519,
+        "nanoseconds": 606000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2F414544.jpg?alt=media&token=14d5c299-ea43-4d71-aba1-6e522776596d"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "1WlyuW8B2utGPNVGJYjZ",
+      "title": "Multiple download (COPY) (COPY)",
+      "primaryLanguageTitle": "Multiple download (COPY) (COPY)",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000749",
+      "end_date": "2021-12-23 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640263165,
+        "nanoseconds": 503000000
+      },
+      "start_date": "2021-12-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640263165,
+        "nanoseconds": 503000000
+      },
+      "created_at": "2021-12-23 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1640263165,
+        "nanoseconds": 503000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "3Gt7LEIaAM6qOtVCeIHk",
+      "title": "123",
+      "primaryLanguageTitle": "123",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000765",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647362249,
+        "nanoseconds": 66000000
+      },
+      "start_date": "2022-03-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647362249,
+        "nanoseconds": 66000000
+      },
+      "created_at": "2022-03-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647362249,
+        "nanoseconds": 66000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "66wNJmPH9bgOrnWskO1Z",
+      "title": "Test node modules update",
+      "primaryLanguageTitle": "Test node modules update",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000769",
+      "end_date": "2022-03-23 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1648034035,
+        "nanoseconds": 229000000
+      },
+      "start_date": "2022-03-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1648034035,
+        "nanoseconds": 229000000
+      },
+      "created_at": "2022-03-23 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1648034035,
+        "nanoseconds": 229000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "8YKjX7HEABgJ7tFYJLFb",
+      "title": "Test by Alyona v15.0.31",
+      "primaryLanguageTitle": "Test by Alyona v15.0.31",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-16 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647449060,
+        "nanoseconds": 597000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647449060,
+        "nanoseconds": 597000000
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647449060,
+        "nanoseconds": 597000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "anPtiat5zm6S0Etz3afJ",
+      "title": "test images error",
+      "primaryLanguageTitle": "test images error",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2021-12-06 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1638748800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647302340,
+        "nanoseconds": 0
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [
+        {
+          "displayText": "Symbol",
+          "parentText": "Manufactured Object",
+          "parentId": 60064,
+          "termId": 60178,
+          "en": "Symbol"
+        },
+        {
+          "displayText": "Illustration",
+          "parentText": "Image",
+          "parentId": 60007,
+          "termId": 78905,
+          "en": "Illustration"
+        },
+        {
+          "displayText": "Vector",
+          "parentText": "Illustration Technique",
+          "parentId": 68584,
+          "termId": 100971,
+          "en": "Vector"
+        },
+        {
+          "displayText": "Typescript",
+          "parentText": "Text",
+          "parentId": 60557,
+          "termId": 105535,
+          "en": "Typescript"
+        },
+        {
+          "displayText": "Illness",
+          "parentText": "Medical Condition",
+          "parentId": 118980,
+          "termId": 61309,
+          "en": "Illness"
+        },
+        {
+          "displayText": "Night",
+          "parentText": "Time Of Day",
+          "parentId": 62895,
+          "termId": 63069,
+          "en": "Night"
+        }
+      ],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "avWFb2M4I0Y2STwKHSK7",
+      "title": "Test Brief Submission",
+      "primaryLanguageTitle": "Test Brief Submission",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-10-27 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1635346092,
+        "nanoseconds": 233000000
+      },
+      "start_date": "2021-10-27 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1635346092,
+        "nanoseconds": 233000000
+      },
+      "created_at": "2021-10-27 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1635346092,
+        "nanoseconds": 233000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "BnKiq8nRStEzn4i7mYZb",
+      "title": "test images error",
+      "primaryLanguageTitle": "test images error",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://media.stage-gettyimages.com/photos/young-couple-moving-house-picture-id680788938?b=1&k=20&m=680788938&s=170x170&h=xIQGnPUXK2WV8LW5pXXvEd64q8qYcDs45YtCsgrdb6E=",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647262560,
+        "nanoseconds": 293000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://media.stage-gettyimages.com/photos/young-couple-moving-house-picture-id680788938?b=1&k=20&m=680788938&s=170x170&h=xIQGnPUXK2WV8LW5pXXvEd64q8qYcDs45YtCsgrdb6E=",
+          "assetId": "680788938",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/businessman-taking-boy-to-school-walking-to-car-picture-id692664346?b=1&k=20&m=692664346&s=170x170&h=w38VNEgbDtAVMcqDFL53OPVI4rUdPXcldkhY4Qn63-w=",
+          "assetId": "692664346",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/young-couple-moving-furniture-into-new-home-from-pickup-picture-id638713822?b=1&k=20&m=638713822&s=170x170&h=hDRNEDnYDTy-tPi_XfDmM87yh2UlEdpYPz-Il0G4OCM=",
+          "assetId": "638713822",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id944686100?b=1&k=20&m=944686100&s=170x170&h=92NiftXMeG6QKd3ZRWbIOeLfwWiTq0prWzZGl5sEJTI=",
+          "assetId": "944686100",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id944682996?b=1&k=20&m=944682996&s=170x170&h=oNJKDudkwBwsVZO_40oWiqt4A6UOq3zZx-RW-i9EfWA=",
+          "assetId": "944682996",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/house-with-shingles-exterior-on-a-tree-lined-street-car-and-blue-sky-picture-id898962404?b=1&k=20&m=898962404&s=170x170&h=tzjsRRn57212tzadIdb5WhdkJjwQ1_G_Me6LEob5JQc=",
+          "assetId": "898962404",
+          "artist": "OlegAlbinsky",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/side-view-of-girl-repairing-bicycle-on-footpath-outside-house-picture-id961128336?b=1&k=20&m=961128336&s=170x170&h=JhTxEZWNBbUabcvM-DvY9vnjY4DiY-l2_oQSCuhGmJw=",
+          "assetId": "961128336",
+          "artist": "Cavan Images",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id958897540?b=1&k=20&m=958897540&s=170x170&h=rtQnDr-GFhbpbFJbT4Rtd2iEy6ZF6kQOEPpCNjIvY20=",
+          "assetId": "958897540",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/sleeping-beauty-picture-id980664946?b=1&k=20&m=980664946&s=170x170&h=oI7XaRy2fNBv8UYktNpDR9ixDiFKu_LDXSVe6DMy7YU=",
+          "assetId": "980664946",
+          "artist": "Julian Mayer",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/real-rimini-picture-id982114358?b=1&k=20&m=982114358&s=170x170&h=reENugrv0Zc8qgPIctyDzIU9OfYOTfB13tCbmorF75E=",
+          "assetId": "982114358",
+          "artist": "Pavel Penikov",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packing-car-picture-id76534803?b=1&k=20&m=76534803&s=170x170&h=Mdjc8R7m2auBVQ22CLs-1m4oXUQMOShM4yZAmlIyA2w=",
+          "assetId": "76534803",
+          "artist": "Hill Creek Pictures",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/apache-boat-picture-id458870109?b=1&k=20&m=458870109&s=170x170&h=qyVw1Yqgrng5e2_NVvgf7fELxgU5lmNm6YJmvVk60ns=",
+          "assetId": "458870109",
+          "artist": "carminesalvatore",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/seaside-resort-in-the-evening-chatham-cape-cod-massachusetts-picture-id464912020?b=1&k=20&m=464912020&s=170x170&h=gEQ09ANq0dbtw4vARKDvdlK71L4o0GxmpCynihLd7j4=",
+          "assetId": "464912020",
+          "artist": "OlegAlbinsky",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/caravan-and-trailer-for-motor-boats-on-road-in-switzerland-picture-id838525562?b=1&k=20&m=838525562&s=170x170&h=9GYdFrwpZdrMnwpqFnTQN77pgpEaAzOLkNZkgQscV5g=",
+          "assetId": "838525562",
+          "artist": "RomanBabakin",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/senior-man-posing-with-his-motorbike-on-a-driveway-picture-iddv1734016?b=1&k=20&m=dv1734016&s=170x170&h=V6e1e8bGjT4DqT7iZjMzBSWdrh7sPHXKZ638boIwoeQ=",
+          "assetId": "dv1734016",
+          "artist": "Terry Vine",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/motorcycle-in-front-of-garage-picture-id87733922?b=1&k=20&m=87733922&s=170x170&h=qusHSBjOU9tjeuJjT8-xAX_dvLTN1a0TDeFjHLCoDfg=",
+          "assetId": "87733922",
+          "artist": "Jupiterimages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/person-on-motorcycle-picture-id87789579?b=1&k=20&m=87789579&s=170x170&h=Y7P7fF_HE-HnA479LTV266bKMWQ3Jtmod1wWlkg1ZPI=",
+          "assetId": "87789579",
+          "artist": "Jupiterimages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/caucasian-man-in-driveway-with-motorcycle-picture-id152402200?b=1&k=20&m=152402200&s=170x170&h=3-kRNlgxDNZEOW9-IPLBg_eaCUU5gMsPo4R6Cf-imKU=",
+          "assetId": "152402200",
+          "artist": "Marc Romanelli",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/mature-couple-in-motorcycle-gear-holding-hands-picture-id518723409?b=1&k=20&m=518723409&s=170x170&h=GHGS69r5DPeBIO7kgQEFVsdU30QGMk3a_mtO1z0eCLA=",
+          "assetId": "518723409",
+          "artist": "FlairImages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/smiling-woman-with-vintage-motorcycle-picture-id735894929?b=1&k=20&m=735894929&s=170x170&h=KTiWcqL9lMKgll5buWqg64RB8gw0e1pu8V4-fEKEm_0=",
+          "assetId": "735894929",
+          "artist": "Westend61",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/portrait-of-smiling-young-woman-with-her-motorcycle-picture-id900217732?b=1&k=20&m=900217732&s=170x170&h=n419hY5bovo9vfw1Q7K8_1K6Q7kgzH5Y4hNxv6UH_qg=",
+          "assetId": "900217732",
+          "artist": "Westend61",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/man-standing-under-a-sail-picture-id93911872?b=1&k=20&m=93911872&s=170x170&h=3OZDcuIcEmdieUN-DsPhzimjIZyOF12EsjMbbNm92vE=",
+          "assetId": "93911872",
+          "artist": "Christine Schneider",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/man-with-a-moped-picture-id842404958?b=1&k=20&m=842404958&s=170x170&h=s2yUiRFsekWZJepTkMZqnyMRyR_YvDBwuOAIFH3ULOA=",
+          "assetId": "842404958",
+          "artist": "Annie Otzen",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "bpbWVOx4SiyFxKAb1II2",
+      "title": "sdfdsfdsf",
+      "primaryLanguageTitle": "sdfdsfdsf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-02-26 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1645919999,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-02-25 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1645747200,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-02-25 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645790811,
+        "nanoseconds": 168000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "cF6d6yljVK4b0G2KHxvU",
+      "title": "new Brief",
+      "primaryLanguageTitle": "new Brief",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000763",
+      "end_date": "2022-02-28 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1646054284,
+        "nanoseconds": 986000000
+      },
+      "start_date": "2022-02-28 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1646054284,
+        "nanoseconds": 986000000
+      },
+      "created_at": "2022-02-28 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646054284,
+        "nanoseconds": 986000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "clc3zxhVZmx5fMvGDSx0",
+      "title": "Multiple download (COPY)",
+      "primaryLanguageTitle": "Multiple download (COPY)",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000750",
+      "end_date": "2021-12-23 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640264279,
+        "nanoseconds": 433000000
+      },
+      "start_date": "2021-12-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640264279,
+        "nanoseconds": 433000000
+      },
+      "created_at": "2021-12-23 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1640264279,
+        "nanoseconds": 433000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "sdfsdf",
+      "primaryLanguageTitle": "sdfsdf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FdnoIgv22gQnRX6fWO4Xi%2F0a1f820e29719c7b67e9d5aa44241155.png?alt=media&token=fae74f1d-6969-4547-8b0a-b164924806d2",
+      "end_date": "2022-03-24 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1648166399,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647993600,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-23 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1648054769,
+        "nanoseconds": 509000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "id": "1",
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FdnoIgv22gQnRX6fWO4Xi%2F0a1f820e29719c7b67e9d5aa44241155.png?alt=media&token=fae74f1d-6969-4547-8b0a-b164924806d2"
+        },
+        {
+          "id": "2",
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FdnoIgv22gQnRX6fWO4Xi%2Fdownload%20(1)%20copy.jpeg?alt=media&token=c91af186-4fa6-4298-8e41-10e87295fa11"
+        },
+        {
+          "id": "3",
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FdnoIgv22gQnRX6fWO4Xi%2Fdownload%20(1).jpeg?alt=media&token=6adf65b1-a23c-4c6b-a972-f23ca6021004"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "DnYDvcya8A79J5LGFwbG",
+      "title": "safd",
+      "primaryLanguageTitle": "safd",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647263974,
+        "nanoseconds": 288000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "EM0NjsCDcIZgoC4k8lfG",
+      "title": "End2End 4536fffc-7fc4-44bb-9a2c-837706dcaa72",
+      "primaryLanguageTitle": "End2End 4536fffc-7fc4-44bb-9a2c-837706dcaa72",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639574263,
+        "nanoseconds": 515000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639574263,
+        "nanoseconds": 515000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639574263,
+        "nanoseconds": 514000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "eTz1tO7NuDeAzHs5yphX",
+      "title": "Duplicate of Duplicate of EDIT Test modules update ",
+      "primaryLanguageTitle": "EDIT Test modules update ",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-01-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "start_date": "2022-01-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645189890,
+        "nanoseconds": 374000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "EUtWJzapappnhPW87wrG",
+      "title": "123",
+      "primaryLanguageTitle": "123",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-16 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647427831,
+        "nanoseconds": 201000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647427831,
+        "nanoseconds": 201000000
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647427831,
+        "nanoseconds": 201000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "EZ2uhAohIx3d983QYcP9",
+      "title": "UAT - Jenny test",
+      "primaryLanguageTitle": "UAT - Jenny test",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647529898,
+        "nanoseconds": 906000000
+      },
+      "start_date": "2022-03-17 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647529898,
+        "nanoseconds": 905000000
+      },
+      "created_at": "2022-03-17 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647529898,
+        "nanoseconds": 905000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "fjKXbt7znJJgkx7KFmvZ",
+      "title": "Multiple download",
+      "primaryLanguageTitle": "Multiple download",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000748",
+      "end_date": "2021-12-20 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639995440,
+        "nanoseconds": 503000000
+      },
+      "start_date": "2021-12-20 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639995440,
+        "nanoseconds": 503000000
+      },
+      "created_at": "2021-12-20 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639995440,
+        "nanoseconds": 503000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "fM9q0Te1lNLQEWEA5MSm",
+      "title": "End2End b7befce1-b3f7-4583-b6e2-d3ab7b34196d",
+      "primaryLanguageTitle": "End2End b7befce1-b3f7-4583-b6e2-d3ab7b34196d",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639573028,
+        "nanoseconds": 231000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639573028,
+        "nanoseconds": 231000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639573028,
+        "nanoseconds": 231000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "G5RP2ubnobilp1Z1iKMK",
+      "title": "Test by Ira",
+      "primaryLanguageTitle": "Test by Ira",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/download%20(2).jpeg?alt=media&token=f493b563-f316-461d-b9b8-e2d9898825ac",
+      "briefType": "customContent",
+      "meId": "700000762",
+      "end_date": "2022-02-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1645187782,
+        "nanoseconds": 2000000
+      },
+      "start_date": "2022-02-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1645187782,
+        "nanoseconds": 2000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645187782,
+        "nanoseconds": 2000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/download%20(2).jpeg?alt=media&token=f493b563-f316-461d-b9b8-e2d9898825ac"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "g6FwsaluAzAZTX9rQy4e",
+      "title": "dsfsdf",
+      "primaryLanguageTitle": "dsfsdf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647561599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647388800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647439625,
+        "nanoseconds": 328000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "gfQIcCcTlb0Gw0b5YpxH",
+      "title": "Duplicate of Multiple download (COPY) (COPY)",
+      "primaryLanguageTitle": "Multiple download (COPY) (COPY)",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://media.stage-gettyimages.com/photos/young-couple-moving-house-picture-id680788938?b=1&k=20&m=680788938&s=170x170&h=xIQGnPUXK2WV8LW5pXXvEd64q8qYcDs45YtCsgrdb6E=",
+      "briefType": "customContent",
+      "end_date": "2021-12-23 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640263165,
+        "nanoseconds": 503000000
+      },
+      "start_date": "2021-12-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640263165,
+        "nanoseconds": 503000000
+      },
+      "created_at": "2022-03-02 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646265540,
+        "nanoseconds": 0
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://media.stage-gettyimages.com/photos/young-couple-moving-house-picture-id680788938?b=1&k=20&m=680788938&s=170x170&h=xIQGnPUXK2WV8LW5pXXvEd64q8qYcDs45YtCsgrdb6E=",
+          "assetId": "680788938",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/businessman-taking-boy-to-school-walking-to-car-picture-id692664346?b=1&k=20&m=692664346&s=170x170&h=w38VNEgbDtAVMcqDFL53OPVI4rUdPXcldkhY4Qn63-w=",
+          "assetId": "692664346",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/young-couple-moving-furniture-into-new-home-from-pickup-picture-id638713822?b=1&k=20&m=638713822&s=170x170&h=hDRNEDnYDTy-tPi_XfDmM87yh2UlEdpYPz-Il0G4OCM=",
+          "assetId": "638713822",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id944686100?b=1&k=20&m=944686100&s=170x170&h=92NiftXMeG6QKd3ZRWbIOeLfwWiTq0prWzZGl5sEJTI=",
+          "assetId": "944686100",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id944682996?b=1&k=20&m=944682996&s=170x170&h=oNJKDudkwBwsVZO_40oWiqt4A6UOq3zZx-RW-i9EfWA=",
+          "assetId": "944682996",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/house-with-shingles-exterior-on-a-tree-lined-street-car-and-blue-sky-picture-id898962404?b=1&k=20&m=898962404&s=170x170&h=tzjsRRn57212tzadIdb5WhdkJjwQ1_G_Me6LEob5JQc=",
+          "assetId": "898962404",
+          "artist": "OlegAlbinsky",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/side-view-of-girl-repairing-bicycle-on-footpath-outside-house-picture-id961128336?b=1&k=20&m=961128336&s=170x170&h=JhTxEZWNBbUabcvM-DvY9vnjY4DiY-l2_oQSCuhGmJw=",
+          "assetId": "961128336",
+          "artist": "Cavan Images",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id958897540?b=1&k=20&m=958897540&s=170x170&h=rtQnDr-GFhbpbFJbT4Rtd2iEy6ZF6kQOEPpCNjIvY20=",
+          "assetId": "958897540",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/sleeping-beauty-picture-id980664946?b=1&k=20&m=980664946&s=170x170&h=oI7XaRy2fNBv8UYktNpDR9ixDiFKu_LDXSVe6DMy7YU=",
+          "assetId": "980664946",
+          "artist": "Julian Mayer",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/real-rimini-picture-id982114358?b=1&k=20&m=982114358&s=170x170&h=reENugrv0Zc8qgPIctyDzIU9OfYOTfB13tCbmorF75E=",
+          "assetId": "982114358",
+          "artist": "Pavel Penikov",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packing-car-picture-id76534803?b=1&k=20&m=76534803&s=170x170&h=Mdjc8R7m2auBVQ22CLs-1m4oXUQMOShM4yZAmlIyA2w=",
+          "assetId": "76534803",
+          "artist": "Hill Creek Pictures",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/apache-boat-picture-id458870109?b=1&k=20&m=458870109&s=170x170&h=qyVw1Yqgrng5e2_NVvgf7fELxgU5lmNm6YJmvVk60ns=",
+          "assetId": "458870109",
+          "artist": "carminesalvatore",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/seaside-resort-in-the-evening-chatham-cape-cod-massachusetts-picture-id464912020?b=1&k=20&m=464912020&s=170x170&h=gEQ09ANq0dbtw4vARKDvdlK71L4o0GxmpCynihLd7j4=",
+          "assetId": "464912020",
+          "artist": "OlegAlbinsky",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/caravan-and-trailer-for-motor-boats-on-road-in-switzerland-picture-id838525562?b=1&k=20&m=838525562&s=170x170&h=9GYdFrwpZdrMnwpqFnTQN77pgpEaAzOLkNZkgQscV5g=",
+          "assetId": "838525562",
+          "artist": "RomanBabakin",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/senior-man-posing-with-his-motorbike-on-a-driveway-picture-iddv1734016?b=1&k=20&m=dv1734016&s=170x170&h=V6e1e8bGjT4DqT7iZjMzBSWdrh7sPHXKZ638boIwoeQ=",
+          "assetId": "dv1734016",
+          "artist": "Terry Vine",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/motorcycle-in-front-of-garage-picture-id87733922?b=1&k=20&m=87733922&s=170x170&h=qusHSBjOU9tjeuJjT8-xAX_dvLTN1a0TDeFjHLCoDfg=",
+          "assetId": "87733922",
+          "artist": "Jupiterimages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/person-on-motorcycle-picture-id87789579?b=1&k=20&m=87789579&s=170x170&h=Y7P7fF_HE-HnA479LTV266bKMWQ3Jtmod1wWlkg1ZPI=",
+          "assetId": "87789579",
+          "artist": "Jupiterimages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/caucasian-man-in-driveway-with-motorcycle-picture-id152402200?b=1&k=20&m=152402200&s=170x170&h=3-kRNlgxDNZEOW9-IPLBg_eaCUU5gMsPo4R6Cf-imKU=",
+          "assetId": "152402200",
+          "artist": "Marc Romanelli",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/mature-couple-in-motorcycle-gear-holding-hands-picture-id518723409?b=1&k=20&m=518723409&s=170x170&h=GHGS69r5DPeBIO7kgQEFVsdU30QGMk3a_mtO1z0eCLA=",
+          "assetId": "518723409",
+          "artist": "FlairImages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/smiling-woman-with-vintage-motorcycle-picture-id735894929?b=1&k=20&m=735894929&s=170x170&h=KTiWcqL9lMKgll5buWqg64RB8gw0e1pu8V4-fEKEm_0=",
+          "assetId": "735894929",
+          "artist": "Westend61",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/portrait-of-smiling-young-woman-with-her-motorcycle-picture-id900217732?b=1&k=20&m=900217732&s=170x170&h=n419hY5bovo9vfw1Q7K8_1K6Q7kgzH5Y4hNxv6UH_qg=",
+          "assetId": "900217732",
+          "artist": "Westend61",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/man-standing-under-a-sail-picture-id93911872?b=1&k=20&m=93911872&s=170x170&h=3OZDcuIcEmdieUN-DsPhzimjIZyOF12EsjMbbNm92vE=",
+          "assetId": "93911872",
+          "artist": "Christine Schneider",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/man-with-a-moped-picture-id842404958?b=1&k=20&m=842404958&s=170x170&h=s2yUiRFsekWZJepTkMZqnyMRyR_YvDBwuOAIFH3ULOA=",
+          "assetId": "842404958",
+          "artist": "Annie Otzen",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "h82Lzcr6XNXzCzWCyAHs",
+      "title": "Duplicate of EDIT Test modules update ",
+      "primaryLanguageTitle": "EDIT Test modules update ",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-01-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "start_date": "2022-01-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645181482,
+        "nanoseconds": 778000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "HGJK6Jbo6eNjlGsLPlIj",
+      "title": "Test Brief MB (COPY)",
+      "primaryLanguageTitle": "Test Brief MB (COPY)",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647362109,
+        "nanoseconds": 329000000
+      },
+      "start_date": "2022-03-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647362109,
+        "nanoseconds": 329000000
+      },
+      "created_at": "2022-03-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647362109,
+        "nanoseconds": 329000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "hGqeMoZf3Blm9BD1uNRM",
+      "title": "End2End 7dd49431-f671-42e4-ae24-a9609f4a7c22",
+      "primaryLanguageTitle": "End2End 7dd49431-f671-42e4-ae24-a9609f4a7c22",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639584637,
+        "nanoseconds": 832000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639584637,
+        "nanoseconds": 832000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639584637,
+        "nanoseconds": 832000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "hXgauSpbKA8Plxp9pV19",
+      "title": "End2End 7bbb49c9-f6c7-4a15-b1eb-5006c36e698b",
+      "primaryLanguageTitle": "End2End 7bbb49c9-f6c7-4a15-b1eb-5006c36e698b",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639574805,
+        "nanoseconds": 226000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639574805,
+        "nanoseconds": 226000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639574805,
+        "nanoseconds": 226000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "HZAYjVKrnde72PjOPxyj",
+      "title": "End2End d7b2e2f7-c267-438d-a9df-79d55f22b802",
+      "primaryLanguageTitle": "End2End d7b2e2f7-c267-438d-a9df-79d55f22b802",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637245676,
+        "nanoseconds": 80000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637245676,
+        "nanoseconds": 79000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637245676,
+        "nanoseconds": 79000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "Ii9cfyJKSYmCZaFmuTEP",
+      "title": "End2End 8fe6fce4-b53c-4fcf-b4c2-72d2cd0066cc",
+      "primaryLanguageTitle": "End2End 8fe6fce4-b53c-4fcf-b4c2-72d2cd0066cc",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-27 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1638057599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2021-11-19 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637322724,
+        "nanoseconds": 614000000
+      },
+      "created_at": "2021-11-19 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637322724,
+        "nanoseconds": 614000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "ivmjkKV67WY6VvOyP0zE",
+      "title": "End2End 5608625f-854e-4759-810f-b4966ec94d97",
+      "primaryLanguageTitle": "End2End 5608625f-854e-4759-810f-b4966ec94d97",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637245133,
+        "nanoseconds": 562000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637245133,
+        "nanoseconds": 562000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637245133,
+        "nanoseconds": 562000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "IWfkXGvYkujo6HUmnn61",
+      "title": "End2End 163d6919-aa4a-4dc9-ad3a-aa5d5d7871f8",
+      "primaryLanguageTitle": "End2End 163d6919-aa4a-4dc9-ad3a-aa5d5d7871f8",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639579846,
+        "nanoseconds": 817000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639579846,
+        "nanoseconds": 817000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639579846,
+        "nanoseconds": 817000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "JZhVx69UWu27g0AsfOtE",
+      "title": "Test link url pattern",
+      "primaryLanguageTitle": "Test link url pattern",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FJZhVx69UWu27g0AsfOtE%2Fdownload%20(1).jpeg?alt=media&token=f3fc40a8-18b0-4aa0-87d2-f3769e54c666",
+      "briefType": "customContent",
+      "meId": "700000758",
+      "end_date": "2021-12-31 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640995199,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2021-12-29 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640771435,
+        "nanoseconds": 240000000
+      },
+      "created_at": "2021-12-29 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1640771435,
+        "nanoseconds": 240000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FJZhVx69UWu27g0AsfOtE%2Fdownload%20(1).jpeg?alt=media&token=f3fc40a8-18b0-4aa0-87d2-f3769e54c666"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "K7fKP6xjjqikR6Envf4o",
+      "title": "End2End 2543daaf-88b6-44d1-9c2b-86a337e66523",
+      "primaryLanguageTitle": "End2End 2543daaf-88b6-44d1-9c2b-86a337e66523",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639573846,
+        "nanoseconds": 841000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639573846,
+        "nanoseconds": 841000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639573846,
+        "nanoseconds": 841000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "KA5i8TmCe8DrUBG43vgh",
+      "title": "Duplicate of Day in the life of a worker - Latin America",
+      "primaryLanguageTitle": "Día en la vida de un trabajador - América Latina",
+      "primaryLanguage": "es",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FKA5i8TmCe8DrUBG43vgh%2Fdownload%20(2).jpeg?alt=media&token=e84b9e5b-f4f1-4ab7-9197-2c8e2a658566",
+      "briefType": "creative",
+      "end_date": "2021-12-31 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640995199,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2021-07-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1626220800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-11 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647043140,
+        "nanoseconds": 0
+      },
+      "version": 2,
+      "freewords": [
+        "video",
+        "stills",
+        "no model"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [
+        "Business",
+        "Family",
+        "Nature & Scenics & Wildlife",
+        "Food & drink"
+      ],
+      "categories": [
+        "Business and Industry",
+        "Lifestyle",
+        "Nature and Wildlife",
+        "Still Life"
+      ],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FKA5i8TmCe8DrUBG43vgh%2Fdownload%20(2).jpeg?alt=media&token=e84b9e5b-f4f1-4ab7-9197-2c8e2a658566"
+        },
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FKA5i8TmCe8DrUBG43vgh%2Fimages%20(4)%20copy.jpeg?alt=media&token=53c9768b-9b0b-4e39-a89e-feba43138028"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "es",
+        "en"
+      ]
+    },
+    {
+      "id": "kgegRbZcDtZhjjcMUZTb",
+      "title": "sdfdsfsdfdsf",
+      "primaryLanguageTitle": "sdfdsfsdfdsf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647269571,
+        "nanoseconds": 138000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "kGO2n1A3qUIgogUmnnvL",
+      "title": "End2End e6981132-6015-4640-af6c-2ca9f1288e0d",
+      "primaryLanguageTitle": "End2End e6981132-6015-4640-af6c-2ca9f1288e0d",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000742",
+      "end_date": "2021-11-22 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637588862,
+        "nanoseconds": 18000000
+      },
+      "start_date": "2021-11-22 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637588862,
+        "nanoseconds": 18000000
+      },
+      "created_at": "2021-11-22 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637588862,
+        "nanoseconds": 17000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "kK8R0m39u491oiGYiU30",
+      "title": "Duplicate of EDIT Test modules update ",
+      "primaryLanguageTitle": "EDIT Test modules update ",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-01-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "start_date": "2022-01-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645181419,
+        "nanoseconds": 660000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "krzCmeSVQAWwyrTxbKzk",
+      "title": "End2End 3ae5cc69-3ef8-446a-ac5a-3ff2b1414c3a",
+      "primaryLanguageTitle": "End2End 3ae5cc69-3ef8-446a-ac5a-3ff2b1414c3a",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637239708,
+        "nanoseconds": 639000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637239708,
+        "nanoseconds": 639000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637239708,
+        "nanoseconds": 639000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "kYU8jXYtnPBVhHQtOnsE",
+      "title": "New brief",
+      "primaryLanguageTitle": "New brief",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000745",
+      "end_date": "2021-11-22 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637595923,
+        "nanoseconds": 731000000
+      },
+      "start_date": "2021-11-22 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637595923,
+        "nanoseconds": 731000000
+      },
+      "created_at": "2021-11-22 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637595923,
+        "nanoseconds": 731000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "L2S6QItGMOON8p9rZUlh",
+      "title": "End2End d4e35720-554d-423b-a91f-81f3dd0d6ce0",
+      "primaryLanguageTitle": "End2End d4e35720-554d-423b-a91f-81f3dd0d6ce0",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639573257,
+        "nanoseconds": 668000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639573257,
+        "nanoseconds": 668000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639573257,
+        "nanoseconds": 668000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "LgMAsfkbzzhnO0NgS8kt",
+      "title": "End2End 1adc87d0-7bd6-42f5-87ea-d1c752f3e9c9",
+      "primaryLanguageTitle": "End2End 1adc87d0-7bd6-42f5-87ea-d1c752f3e9c9",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637241588,
+        "nanoseconds": 386000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637241588,
+        "nanoseconds": 386000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637241588,
+        "nanoseconds": 386000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "LhOdeZZ9jNC4fQKrmPsc",
+      "title": "End2End 48c28918-2f4c-4b02-a920-39af24132aac",
+      "primaryLanguageTitle": "End2End 48c28918-2f4c-4b02-a920-39af24132aac",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637240566,
+        "nanoseconds": 559000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637240566,
+        "nanoseconds": 559000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637240566,
+        "nanoseconds": 559000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "Ln4namUMaEe9lpJK8RtA",
+      "title": "ClickupT",
+      "primaryLanguageTitle": "ClickupT",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000755",
+      "end_date": "2021-12-24 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640349847,
+        "nanoseconds": 89000000
+      },
+      "start_date": "2021-12-24 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640349847,
+        "nanoseconds": 89000000
+      },
+      "created_at": "2021-12-24 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1640349847,
+        "nanoseconds": 88000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "Ma7G8QUPtcS1l5tiBusC",
+      "title": "DR test",
+      "primaryLanguageTitle": "DR test",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/download%20(1).jpeg?alt=media&token=27fb10c8-3ad5-492f-9afd-68fd135dbb61",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639611061,
+        "nanoseconds": 25000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639611061,
+        "nanoseconds": 25000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639611061,
+        "nanoseconds": 25000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/download%20(1).jpeg?alt=media&token=27fb10c8-3ad5-492f-9afd-68fd135dbb61"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "mgjA4PJjzlCJlGHQ0hY7",
+      "title": "End2End ced43641-99fd-434a-b721-b8915a307304",
+      "primaryLanguageTitle": "End2End ced43641-99fd-434a-b721-b8915a307304",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-14 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639478207,
+        "nanoseconds": 218000000
+      },
+      "start_date": "2021-12-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639478207,
+        "nanoseconds": 218000000
+      },
+      "created_at": "2021-12-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639478207,
+        "nanoseconds": 218000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "MGqSuOnQTWJkPXcgXR9N",
+      "title": "End2End f068c47a-fd24-438c-8e40-7eca0688348b",
+      "primaryLanguageTitle": "End2End f068c47a-fd24-438c-8e40-7eca0688348b",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-02 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1635865340,
+        "nanoseconds": 264000000
+      },
+      "start_date": "2021-11-02 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1635865340,
+        "nanoseconds": 264000000
+      },
+      "created_at": "2021-11-02 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1635865340,
+        "nanoseconds": 263000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "mWXyeC1EEnVE4lgFPS5Z",
+      "title": "End2End 4d43e3df-9a25-41ed-a5a3-6bf7ccdad514",
+      "primaryLanguageTitle": "End2End 4d43e3df-9a25-41ed-a5a3-6bf7ccdad514",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637239154,
+        "nanoseconds": 55000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637239154,
+        "nanoseconds": 55000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637239154,
+        "nanoseconds": 55000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "N4aZUhIJaPar6K6sbs1E",
+      "title": "Duplicate of Beer",
+      "primaryLanguageTitle": "Beer",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-24 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640348231,
+        "nanoseconds": 304000000
+      },
+      "start_date": "2021-12-24 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640348231,
+        "nanoseconds": 304000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645196601,
+        "nanoseconds": 367000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "nRFS6nhDs668cJoOCWYb",
+      "title": "fdsfsdfsdfsdf",
+      "primaryLanguageTitle": "fdsfsdfsdfsdf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647561599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647388800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647439930,
+        "nanoseconds": 199000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "O0Qfwjr08hNZjIgvaBy2",
+      "title": "sdfsdf",
+      "primaryLanguageTitle": "sdfsdf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647266396,
+        "nanoseconds": 264000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "O2IRRvngWKhAdWL0TjkJ",
+      "title": "test images error",
+      "primaryLanguageTitle": "test images error",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FSmoketest_Admin__ADP__FEATURES__ADMIN_VIEW-ONLY_0_document_0_desktop.png?alt=media&token=d3f2586a-6674-4363-ba27-bb08158f0ed2",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647262322,
+        "nanoseconds": 236000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2FSmoketest_Admin__ADP__FEATURES__ADMIN_VIEW-ONLY_0_document_0_desktop.png?alt=media&token=d3f2586a-6674-4363-ba27-bb08158f0ed2"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "o9uATxerNh80nOXdKuzK",
+      "title": "nn",
+      "primaryLanguageTitle": "nn",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-03 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1646351999,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-02 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1646179200,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-02 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646225138,
+        "nanoseconds": 84000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "OET6yPN8ex3OIz6mxPue",
+      "title": "End2End 490bd7de-0785-4b73-a978-8d54c2a5199e",
+      "primaryLanguageTitle": "End2End 490bd7de-0785-4b73-a978-8d54c2a5199e",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637237913,
+        "nanoseconds": 603000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637237913,
+        "nanoseconds": 603000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637237913,
+        "nanoseconds": 603000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "ol0tHjpMX0VUF6Kn1wLG",
+      "title": "Duplicate of Test by Ira",
+      "primaryLanguageTitle": "Test by Ira",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-02-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1645187782,
+        "nanoseconds": 2000000
+      },
+      "start_date": "2022-02-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1645187782,
+        "nanoseconds": 2000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645196745,
+        "nanoseconds": 918000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "oS78rBCYdd1iwQQNPM1i",
+      "title": "Test Approval",
+      "primaryLanguageTitle": "Test Approval",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000766",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647368137,
+        "nanoseconds": 108000000
+      },
+      "start_date": "2022-03-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647368137,
+        "nanoseconds": 108000000
+      },
+      "created_at": "2022-03-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647368137,
+        "nanoseconds": 108000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "pmfL7iBVnRDEy1liyrMA",
+      "title": "Test subscription 3 edit",
+      "primaryLanguageTitle": "Test subscription 3 edit",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "775190323",
+      "end_date": "2022-02-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1644938534,
+        "nanoseconds": 873000000
+      },
+      "start_date": "2022-02-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1644938534,
+        "nanoseconds": 873000000
+      },
+      "created_at": "2022-02-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1644938534,
+        "nanoseconds": 873000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "PoSUnlsBunaJDHx89Xqi",
+      "title": "End2End 784c2f50-2a1a-4e98-a5f2-2a622153a922",
+      "primaryLanguageTitle": "End2End 784c2f50-2a1a-4e98-a5f2-2a622153a922",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639574537,
+        "nanoseconds": 935000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639574537,
+        "nanoseconds": 935000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639574537,
+        "nanoseconds": 935000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "pqIY6sGUhAxCf2KVZ79A",
+      "title": "End2End e01d5e7d-f13b-429d-b59b-606a3401168b",
+      "primaryLanguageTitle": "End2End e01d5e7d-f13b-429d-b59b-606a3401168b",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000764",
+      "end_date": "2022-03-10 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1646928618,
+        "nanoseconds": 53000000
+      },
+      "start_date": "2022-03-10 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1646928618,
+        "nanoseconds": 53000000
+      },
+      "created_at": "2022-03-10 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646928618,
+        "nanoseconds": 52000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "prbmf2Z26ELDVOte9Low",
+      "title": "Duplicate of STILLS BRIEF: Portraits",
+      "primaryLanguageTitle": "STILLS BRIEF: Portraits",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "creative",
+      "end_date": "2024-12-31 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1735603200,
+        "nanoseconds": 0
+      },
+      "start_date": "2019-09-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1568592000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-09 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646840656,
+        "nanoseconds": 351000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills",
+        "global",
+        "non exclusive stills 2019",
+        "portraits",
+        "portrait"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [
+        "Leisure & Lifestyle"
+      ],
+      "categories": [
+        "Lifestyle"
+      ],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "PYLZBx7mw3nvP04BP3SK",
+      "title": "123",
+      "primaryLanguageTitle": "123",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-16 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647433664,
+        "nanoseconds": 550000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647433664,
+        "nanoseconds": 550000000
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647433664,
+        "nanoseconds": 550000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "qAC6YraASBEQdFJ6TyPV",
+      "title": "End2End 0b5d2840-e960-4777-abb3-02d1e7e48cf2",
+      "primaryLanguageTitle": "End2End 0b5d2840-e960-4777-abb3-02d1e7e48cf2",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637246106,
+        "nanoseconds": 319000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637246106,
+        "nanoseconds": 319000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637246106,
+        "nanoseconds": 319000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "QakVmHnlyzjjnYP3lmMu",
+      "title": "dsfdsf",
+      "primaryLanguageTitle": "dsfdsf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2F000-000-001-rgb(1)%20(2).jpg?alt=media&token=5b2d1cca-5469-4363-b120-1134d90f7b4e",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647561599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647388800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647436500,
+        "nanoseconds": 941000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2F000-000-001-rgb(1)%20(2).jpg?alt=media&token=5b2d1cca-5469-4363-b120-1134d90f7b4e"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "QeWx8RaG29AOxe8SOMjN",
+      "title": "End2End 75b18584-8c9a-463f-b109-2ec6fee57cfe",
+      "primaryLanguageTitle": "End2End 75b18584-8c9a-463f-b109-2ec6fee57cfe",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639401194,
+        "nanoseconds": 535000000
+      },
+      "start_date": "2021-12-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639401194,
+        "nanoseconds": 535000000
+      },
+      "created_at": "2021-12-13 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639401194,
+        "nanoseconds": 535000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "QklStx8Dc8n7PCpFovNk",
+      "title": "sfsdfsdf",
+      "primaryLanguageTitle": "sfsdfsdf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647266348,
+        "nanoseconds": 441000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "r73f9RQS2DldKCWibtvl",
+      "title": "End2End 173b59d1-e583-47b6-bc53-66ecd0e83fa4",
+      "primaryLanguageTitle": "End2End 173b59d1-e583-47b6-bc53-66ecd0e83fa4",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639578564,
+        "nanoseconds": 843000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639578564,
+        "nanoseconds": 843000000
+      },
+      "created_at": "2021-12-15 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639578564,
+        "nanoseconds": 843000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "sjSPvSxmkbS9rt38qLel",
+      "title": "sad",
+      "primaryLanguageTitle": "sad",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647388799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-14 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647216000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-14 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647269063,
+        "nanoseconds": 574000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "SMymr6XxpJGVP6uM3uo5",
+      "title": "UAT Christine",
+      "primaryLanguageTitle": "UAT Christine",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647529889,
+        "nanoseconds": 441000000
+      },
+      "start_date": "2022-03-17 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647529889,
+        "nanoseconds": 440000000
+      },
+      "created_at": "2022-03-17 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647529889,
+        "nanoseconds": 440000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "TiBvOswqJsMEc1OzFmWO",
+      "title": "End2End ad056901-0c02-4c4f-96da-2e57077eb17c",
+      "primaryLanguageTitle": "End2End ad056901-0c02-4c4f-96da-2e57077eb17c",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-10 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639141387,
+        "nanoseconds": 922000000
+      },
+      "start_date": "2021-12-10 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639141387,
+        "nanoseconds": 922000000
+      },
+      "created_at": "2021-12-10 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639141387,
+        "nanoseconds": 922000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "tJoOnNtTA4yDukPADkQQ",
+      "title": "End2End 258ac2b4-2889-4a67-a158-2c95ba616c85",
+      "primaryLanguageTitle": "End2End 258ac2b4-2889-4a67-a158-2c95ba616c85",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000767",
+      "end_date": "2022-03-16 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647423621,
+        "nanoseconds": 60000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647423621,
+        "nanoseconds": 60000000
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647423621,
+        "nanoseconds": 60000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "tr70vO7U0lWe4D4cYJlL",
+      "title": "End2End 729619f4-d808-49cf-bddf-41a035bf6012",
+      "primaryLanguageTitle": "End2End 729619f4-d808-49cf-bddf-41a035bf6012",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637242672,
+        "nanoseconds": 780000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637242672,
+        "nanoseconds": 780000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637242672,
+        "nanoseconds": 780000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "tvX6Cm0GtKDeLQMhteo6",
+      "title": "hello 2",
+      "primaryLanguageTitle": "hello 2",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "meId": "555556",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637279999,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2021-11-17 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637107200,
+        "nanoseconds": 0
+      },
+      "created_at": "2021-11-17 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637188811,
+        "nanoseconds": 662000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "UbYDpkctMvG0YczxsYZQ",
+      "title": "End2End 3d81ea01-05dd-453e-b54a-f40964c1c7d4",
+      "primaryLanguageTitle": "End2End 3d81ea01-05dd-453e-b54a-f40964c1c7d4",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637239510,
+        "nanoseconds": 689000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637239510,
+        "nanoseconds": 689000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637239510,
+        "nanoseconds": 689000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "V7dFRsEmkY0MKrmMNwXY",
+      "title": "End2End ee6f9eb1-18a1-4b4e-a7da-0d69bc61f5ec",
+      "primaryLanguageTitle": "End2End ee6f9eb1-18a1-4b4e-a7da-0d69bc61f5ec",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637247607,
+        "nanoseconds": 699000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637247607,
+        "nanoseconds": 699000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637247607,
+        "nanoseconds": 699000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "VeN6rDmtpS6blHuUR382",
+      "title": "End2End 47ab964d-41cb-4a76-aa9a-47bb35ff599f",
+      "primaryLanguageTitle": "End2End 47ab964d-41cb-4a76-aa9a-47bb35ff599f",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637247546,
+        "nanoseconds": 497000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637247546,
+        "nanoseconds": 497000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637247546,
+        "nanoseconds": 497000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "VF6E0EicA3cNKG07em23",
+      "title": "EDIT Test modules update ",
+      "primaryLanguageTitle": "EDIT Test modules update ",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000760",
+      "end_date": "2022-01-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "start_date": "2022-01-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "created_at": "2022-01-13 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "vKiTFsFpVMoaraDX6Hls",
+      "title": "sadfsafd",
+      "primaryLanguageTitle": "sadfsafd",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-24 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1648166399,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647993600,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-23 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1648054252,
+        "nanoseconds": 555000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "w05IyxmxB5f8vzoCeYpg",
+      "title": "Multiple download",
+      "primaryLanguageTitle": "Multiple download",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000756",
+      "end_date": "2021-12-28 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640717398,
+        "nanoseconds": 976000000
+      },
+      "start_date": "2021-12-28 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640717398,
+        "nanoseconds": 976000000
+      },
+      "created_at": "2021-12-28 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1640717398,
+        "nanoseconds": 976000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "w55zBlA8QpOhxmgNQbq1",
+      "title": "Duplicate of IStock exclusive test brief",
+      "primaryLanguageTitle": "IStock exclusive test brief",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-12-31 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1672531199,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-02-01 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1643673600,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645196551,
+        "nanoseconds": 374000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills",
+        "video",
+        "illustration",
+        "a",
+        "b",
+        "c"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [
+        "Agriculture",
+        "Business",
+        "Crowds",
+        "Disasters & insurance themes",
+        "Energy",
+        "Industry & transportation",
+        "Science",
+        "Technology & communications"
+      ],
+      "categories": [
+        "Business and Industry"
+      ],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": true
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "wS6CDf8FOEs5Fqw1cI4H",
+      "title": "jj",
+      "primaryLanguageTitle": "jj",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-03 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1646351999,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-02 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1646179200,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-02 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646204844,
+        "nanoseconds": 61000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "X4wP1lBwEch7cn4y8BHp",
+      "title": "Duplicate of DR test",
+      "primaryLanguageTitle": "DR test",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-15 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639611061,
+        "nanoseconds": 25000000
+      },
+      "start_date": "2021-12-15 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639611061,
+        "nanoseconds": 25000000
+      },
+      "created_at": "2022-02-28 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646045713,
+        "nanoseconds": 23000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "XaY2pdZCg2gGJNIDrCTZ",
+      "title": "End2End 41066490-226e-435e-854d-7f3061638591",
+      "primaryLanguageTitle": "End2End 41066490-226e-435e-854d-7f3061638591",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000768",
+      "end_date": "2022-03-16 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647424941,
+        "nanoseconds": 891000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647424941,
+        "nanoseconds": 891000000
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647424941,
+        "nanoseconds": 891000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "xITlVZjnkLX1rGGQGQRA",
+      "title": "End2End 5f4fde1f-3606-4f15-8d7a-0726dbcda1cd",
+      "primaryLanguageTitle": "End2End 5f4fde1f-3606-4f15-8d7a-0726dbcda1cd",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-10-27 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1635346494,
+        "nanoseconds": 651000000
+      },
+      "start_date": "2021-10-27 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1635346494,
+        "nanoseconds": 651000000
+      },
+      "created_at": "2021-10-27 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1635346494,
+        "nanoseconds": 651000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "XKak8Nz5gcYAvgHYTeo9",
+      "title": "End2End 69d5aebc-9a2b-4057-a4e2-a266c6a107e6",
+      "primaryLanguageTitle": "End2End 69d5aebc-9a2b-4057-a4e2-a266c6a107e6",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1639413090,
+        "nanoseconds": 914000000
+      },
+      "start_date": "2021-12-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1639413090,
+        "nanoseconds": 914000000
+      },
+      "created_at": "2021-12-13 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1639413090,
+        "nanoseconds": 914000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "xlGriq7158ttjX0Xkulg",
+      "title": "End2End 85e1ca64-af54-45c9-992f-bf6f959ecc9e",
+      "primaryLanguageTitle": "End2End 85e1ca64-af54-45c9-992f-bf6f959ecc9e",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-16 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637076320,
+        "nanoseconds": 661000000
+      },
+      "start_date": "2021-11-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637076320,
+        "nanoseconds": 661000000
+      },
+      "created_at": "2021-11-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637076320,
+        "nanoseconds": 661000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "YEo87FoK6qaW8OOszTxr",
+      "title": "123 with only allowed Sample files mime-types",
+      "primaryLanguageTitle": "123 with only allowed Sample files mime-types",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647515877,
+        "nanoseconds": 317000000
+      },
+      "start_date": "2022-03-17 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647515877,
+        "nanoseconds": 317000000
+      },
+      "created_at": "2022-03-17 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647515877,
+        "nanoseconds": 317000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "YGbGB4m2zGJu3u1Z83nH",
+      "title": "End2End fe814114-9f0f-41c6-991a-9b4de2e12e50",
+      "primaryLanguageTitle": "End2End fe814114-9f0f-41c6-991a-9b4de2e12e50",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-18 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637242653,
+        "nanoseconds": 184000000
+      },
+      "start_date": "2021-11-18 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637242653,
+        "nanoseconds": 184000000
+      },
+      "created_at": "2021-11-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637242653,
+        "nanoseconds": 184000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "yJSq3zRyOqndfUa70mJ9",
+      "title": "dsfdsf",
+      "primaryLanguageTitle": "dsfdsf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647561599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647388800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647439263,
+        "nanoseconds": 384000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "yt6KvXOv6xc19H0nzXyG",
+      "title": "Test",
+      "primaryLanguageTitle": "Test",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "meId": "700000740",
+      "end_date": "2021-11-01 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1635790484,
+        "nanoseconds": 919000000
+      },
+      "start_date": "2021-11-01 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1635790484,
+        "nanoseconds": 919000000
+      },
+      "created_at": "2021-11-01 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1635790484,
+        "nanoseconds": 919000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "z2JYd5qmvBcrEyF1BRaY",
+      "title": "Smoke P 23.12.21",
+      "primaryLanguageTitle": "Smoke P 23.12.21",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-12-23 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1640261726,
+        "nanoseconds": 680000000
+      },
+      "start_date": "2021-12-23 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1640261726,
+        "nanoseconds": 680000000
+      },
+      "created_at": "2021-12-23 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1640261726,
+        "nanoseconds": 680000000
+      },
+      "freewords": [
+        "video"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "ziePlV88qTAD2jfqdszE",
+      "title": "Duplicate of EDIT Test modules update ",
+      "primaryLanguageTitle": "EDIT Test modules update ",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2022-01-13 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "start_date": "2022-01-13 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1642079527,
+        "nanoseconds": 884000000
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645178242,
+        "nanoseconds": 953000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "ZLdoWDBJp0h3ybvcL8vk",
+      "title": "sdfsdfdsf",
+      "primaryLanguageTitle": "sdfsdfdsf",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2Fassassins_creed_rogue_wallpaper___shay-wallpaper-1920x1080%20(1).jpg?alt=media&token=a8a8125e-7364-4dd1-b407-5ebd55444902",
+      "end_date": "2022-03-17 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1647561599,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-03-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1647388800,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-16 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1647436411,
+        "nanoseconds": 648000000
+      },
+      "version": 2,
+      "freewords": [],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://firebasestorage.googleapis.com/v0/b/contributor-dev.appspot.com/o/BriefImages%2Fassassins_creed_rogue_wallpaper___shay-wallpaper-1920x1080%20(1).jpg?alt=media&token=a8a8125e-7364-4dd1-b407-5ebd55444902"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "znEHskWK501ugT6r4Y4a",
+      "title": "timestamp test",
+      "primaryLanguageTitle": "timestamp test",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "background_image_url": "https://media.stage-gettyimages.com/photos/young-couple-moving-house-picture-id680788938?b=1&k=20&m=680788938&s=170x170&h=xIQGnPUXK2WV8LW5pXXvEd64q8qYcDs45YtCsgrdb6E=",
+      "briefType": "customContent",
+      "end_date": "2022-02-28 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1646092799,
+        "nanoseconds": 999000000
+      },
+      "start_date": "2022-02-20 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1645315200,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-02-18 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1645228740,
+        "nanoseconds": 0
+      },
+      "version": 2,
+      "freewords": [
+        "video"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [
+        {
+          "url": "https://media.stage-gettyimages.com/photos/young-couple-moving-house-picture-id680788938?b=1&k=20&m=680788938&s=170x170&h=xIQGnPUXK2WV8LW5pXXvEd64q8qYcDs45YtCsgrdb6E=",
+          "assetId": "680788938",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/businessman-taking-boy-to-school-walking-to-car-picture-id692664346?b=1&k=20&m=692664346&s=170x170&h=w38VNEgbDtAVMcqDFL53OPVI4rUdPXcldkhY4Qn63-w=",
+          "assetId": "692664346",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/young-couple-moving-furniture-into-new-home-from-pickup-picture-id638713822?b=1&k=20&m=638713822&s=170x170&h=hDRNEDnYDTy-tPi_XfDmM87yh2UlEdpYPz-Il0G4OCM=",
+          "assetId": "638713822",
+          "artist": "kali9",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id944686100?b=1&k=20&m=944686100&s=170x170&h=92NiftXMeG6QKd3ZRWbIOeLfwWiTq0prWzZGl5sEJTI=",
+          "assetId": "944686100",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id944682996?b=1&k=20&m=944682996&s=170x170&h=oNJKDudkwBwsVZO_40oWiqt4A6UOq3zZx-RW-i9EfWA=",
+          "assetId": "944682996",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/house-with-shingles-exterior-on-a-tree-lined-street-car-and-blue-sky-picture-id898962404?b=1&k=20&m=898962404&s=170x170&h=tzjsRRn57212tzadIdb5WhdkJjwQ1_G_Me6LEob5JQc=",
+          "assetId": "898962404",
+          "artist": "OlegAlbinsky",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/side-view-of-girl-repairing-bicycle-on-footpath-outside-house-picture-id961128336?b=1&k=20&m=961128336&s=170x170&h=JhTxEZWNBbUabcvM-DvY9vnjY4DiY-l2_oQSCuhGmJw=",
+          "assetId": "961128336",
+          "artist": "Cavan Images",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packs-vehicle-for-autumn-vacation-trip-picture-id958897540?b=1&k=20&m=958897540&s=170x170&h=rtQnDr-GFhbpbFJbT4Rtd2iEy6ZF6kQOEPpCNjIvY20=",
+          "assetId": "958897540",
+          "artist": "fstop123",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/sleeping-beauty-picture-id980664946?b=1&k=20&m=980664946&s=170x170&h=oI7XaRy2fNBv8UYktNpDR9ixDiFKu_LDXSVe6DMy7YU=",
+          "assetId": "980664946",
+          "artist": "Julian Mayer",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/real-rimini-picture-id982114358?b=1&k=20&m=982114358&s=170x170&h=reENugrv0Zc8qgPIctyDzIU9OfYOTfB13tCbmorF75E=",
+          "assetId": "982114358",
+          "artist": "Pavel Penikov",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/family-packing-car-picture-id76534803?b=1&k=20&m=76534803&s=170x170&h=Mdjc8R7m2auBVQ22CLs-1m4oXUQMOShM4yZAmlIyA2w=",
+          "assetId": "76534803",
+          "artist": "Hill Creek Pictures",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/apache-boat-picture-id458870109?b=1&k=20&m=458870109&s=170x170&h=qyVw1Yqgrng5e2_NVvgf7fELxgU5lmNm6YJmvVk60ns=",
+          "assetId": "458870109",
+          "artist": "carminesalvatore",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/seaside-resort-in-the-evening-chatham-cape-cod-massachusetts-picture-id464912020?b=1&k=20&m=464912020&s=170x170&h=gEQ09ANq0dbtw4vARKDvdlK71L4o0GxmpCynihLd7j4=",
+          "assetId": "464912020",
+          "artist": "OlegAlbinsky",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/caravan-and-trailer-for-motor-boats-on-road-in-switzerland-picture-id838525562?b=1&k=20&m=838525562&s=170x170&h=9GYdFrwpZdrMnwpqFnTQN77pgpEaAzOLkNZkgQscV5g=",
+          "assetId": "838525562",
+          "artist": "RomanBabakin",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/senior-man-posing-with-his-motorbike-on-a-driveway-picture-iddv1734016?b=1&k=20&m=dv1734016&s=170x170&h=V6e1e8bGjT4DqT7iZjMzBSWdrh7sPHXKZ638boIwoeQ=",
+          "assetId": "dv1734016",
+          "artist": "Terry Vine",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/motorcycle-in-front-of-garage-picture-id87733922?b=1&k=20&m=87733922&s=170x170&h=qusHSBjOU9tjeuJjT8-xAX_dvLTN1a0TDeFjHLCoDfg=",
+          "assetId": "87733922",
+          "artist": "Jupiterimages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/person-on-motorcycle-picture-id87789579?b=1&k=20&m=87789579&s=170x170&h=Y7P7fF_HE-HnA479LTV266bKMWQ3Jtmod1wWlkg1ZPI=",
+          "assetId": "87789579",
+          "artist": "Jupiterimages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/caucasian-man-in-driveway-with-motorcycle-picture-id152402200?b=1&k=20&m=152402200&s=170x170&h=3-kRNlgxDNZEOW9-IPLBg_eaCUU5gMsPo4R6Cf-imKU=",
+          "assetId": "152402200",
+          "artist": "Marc Romanelli",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/mature-couple-in-motorcycle-gear-holding-hands-picture-id518723409?b=1&k=20&m=518723409&s=170x170&h=GHGS69r5DPeBIO7kgQEFVsdU30QGMk3a_mtO1z0eCLA=",
+          "assetId": "518723409",
+          "artist": "FlairImages",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/smiling-woman-with-vintage-motorcycle-picture-id735894929?b=1&k=20&m=735894929&s=170x170&h=KTiWcqL9lMKgll5buWqg64RB8gw0e1pu8V4-fEKEm_0=",
+          "assetId": "735894929",
+          "artist": "Westend61",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/portrait-of-smiling-young-woman-with-her-motorcycle-picture-id900217732?b=1&k=20&m=900217732&s=170x170&h=n419hY5bovo9vfw1Q7K8_1K6Q7kgzH5Y4hNxv6UH_qg=",
+          "assetId": "900217732",
+          "artist": "Westend61",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/man-standing-under-a-sail-picture-id93911872?b=1&k=20&m=93911872&s=170x170&h=3OZDcuIcEmdieUN-DsPhzimjIZyOF12EsjMbbNm92vE=",
+          "assetId": "93911872",
+          "artist": "Christine Schneider",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        },
+        {
+          "url": "https://media.stage-gettyimages.com/photos/man-with-a-moped-picture-id842404958?b=1&k=20&m=842404958&s=170x170&h=s2yUiRFsekWZJepTkMZqnyMRyR_YvDBwuOAIFH3ULOA=",
+          "assetId": "842404958",
+          "artist": "Annie Otzen",
+          "boardId": "RhX3ckhEhUKTj-Qro6VcUw"
+        }
+      ],
+      "tags": {
+        "Exclusive Getty": false,
+        "Exclusive iStock": false,
+        "Getty Only": false,
+        "Non-Exclusive iStock": false,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "zr2cSrylprKICudvDKVE",
+      "title": "End2End 7954912c-7ac0-4ba9-af90-9d8318006795",
+      "primaryLanguageTitle": "End2End 7954912c-7ac0-4ba9-af90-9d8318006795",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "customContent",
+      "end_date": "2021-11-19 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1637322714,
+        "nanoseconds": 494000000
+      },
+      "start_date": "2021-11-19 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1637322714,
+        "nanoseconds": 494000000
+      },
+      "created_at": "2021-11-19 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1637322714,
+        "nanoseconds": 494000000
+      },
+      "freewords": [
+        "stills"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [],
+      "categories": [],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    },
+    {
+      "id": "zsIEUE9srdKReFBBQKcD",
+      "title": "Duplicate of STILLS BRIEF: Portraits",
+      "primaryLanguageTitle": "STILLS BRIEF: Portraits",
+      "primaryLanguage": "en",
+      "status": "draft",
+      "briefType": "creative",
+      "end_date": "2024-12-31 23:59:00 UTC",
+      "endDate": {
+        "seconds": 1735603200,
+        "nanoseconds": 0
+      },
+      "start_date": "2019-09-16 23:59:00 UTC",
+      "startDate": {
+        "seconds": 1568592000,
+        "nanoseconds": 0
+      },
+      "created_at": "2022-03-09 23:59:00 UTC",
+      "createdAt": {
+        "seconds": 1646838743,
+        "nanoseconds": 506000000
+      },
+      "version": 2,
+      "freewords": [
+        "stills",
+        "global",
+        "non exclusive stills 2019",
+        "portraits",
+        "portrait"
+      ],
+      "contributorIdsWhiteList": [],
+      "sub_categories": [
+        "Leisure & Lifestyle"
+      ],
+      "categories": [
+        "Lifestyle"
+      ],
+      "exampleImages": [],
+      "tags": {
+        "Exclusive Getty": true,
+        "Exclusive iStock": true,
+        "Getty Only": false,
+        "Non-Exclusive iStock": true,
+        "Show on Desktop": true,
+        "Show on Mobile": true,
+        "iStock Only": false
+      },
+      "keywords": [],
+      "localizedTo": [
+        "en"
+      ]
+    }
+  ]
+}
