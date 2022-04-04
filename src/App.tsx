@@ -3,7 +3,7 @@ import BriefList from "./components/BriefList/BriefsList";
 
 function App() {
   return (
-      <BriefList name="Alyona"/>
+      <BriefList />
   );
 }
 
