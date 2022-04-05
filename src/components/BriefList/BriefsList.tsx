@@ -1,7 +1,7 @@
-import {useEffect} from "react";
-import {getBriefList} from "../../services/BriefData.service";
+import React, { ReactElement, useEffect } from 'react';
+import { getBriefList } from '../../services/BriefDataService';
 
-const BriefList = () => {
+function BriefList(): ReactElement {
   useEffect(() => {
     getBriefList();
   }, []);
