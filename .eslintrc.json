@@ -49,6 +49,7 @@
                 "allowTypedFunctionExpressions": true
             }
         ],
+        "no-shadow": [2, { "builtinGlobals": false, "hoist": "functions", "allow": [] }],
         "space-before-blocks": "error"
     },
     "settings": {
