@@ -11,7 +11,7 @@ interface Props {
 }
 
 const Brief: React.FC<Props> = ({ brief }) => (
-  <Card sx={styles.Card}>
+  <Card sx={styles.Card} elevation={4}>
     <CardMedia
       component="img"
       height="194"
